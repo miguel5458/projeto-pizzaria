@@ -1,0 +1,16 @@
+#img_avatar {
+  width: 60px;
+}
+
+#img_avatar:hover {
+  box-shadow: inset 0 0 1em #080808, 0 0 1em #7b7b7b;
+  border-radius: 100%;
+}
+
+.nav-item a:hover {
+  color: #ffffff;
+}
+
+#navbarResponsive > ul > li:nth-child(1) {
+}
+
